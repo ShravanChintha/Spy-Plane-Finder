@@ -1,0 +1,2 @@
+# Spy-Plane-Finder
+The goal of this project is to find US spy plane based on the specifications and other data provided. Based on the location they are and heights they fly classification has been done and Spy planes are identified.  Applied various modeling techniques to arrive into a good solution. Random forest classification method proved to be the best method to find the spy plane with a good accuracy.
